@@ -25,3 +25,5 @@ Each chunk is embedded and stored in a FAISS vector index.
 When you ask a query, the most relevant chunks are retrieved.
 
 The model (Gemini or configured LLM) generates a response based on retrieved context.
+
+Webapp_Link : https://rag-demo-app3.streamlit.app/
